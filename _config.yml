@@ -9,7 +9,7 @@ url: "https://art-intern.github.io" # the base hostname & protocol for your site
 
 #-------------------------------
 # About Section
-author-name:  Tech Intern
+author-name:  Art Intern
 author-avatar: 12.png
 
 
@@ -23,7 +23,7 @@ pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: tech-intern # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: art-intern # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
