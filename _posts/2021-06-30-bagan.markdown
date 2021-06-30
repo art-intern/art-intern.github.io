@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Bagan
@@ -25,4 +24,5 @@ Bagan was **the capital of the Kingdom of Pagan** from the 9th to the 13th centu
 
 After Mongol invasions eventually led to the fall of the Kingdom of Pagan, the city was reduced to a small settlement, never to recover its former glories. The area did, however, remain a **destination for Buddhist pilgrimage**. A few hundred temples were added between the 13th and 20th centuries, but the extensive earthquake damage over the years means that only 3,800 monuments of various size remain, in varying states of repair.
 
-![]({{site.baseurl}}/img/14.jpg)
+![]({{site.baseurl}}/img/14.png)
+
