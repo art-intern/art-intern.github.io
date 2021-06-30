@@ -1,10 +1,10 @@
 #-------------------------------
 # General Site Settings
 
-title: Tech Intern | Zero 2 Hero
-description: Tech Intern by kokoye2007 | Z2H | OSS Tech Solutions | Ubuntu-MM. # this means to ignore newlines until "baseurl:"
+title: Art Intern | Free as Freedom
+description: Art Intern by | ... # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tech-intern.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://art-intern.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
