@@ -1,16 +1,9 @@
-
 ---
-
 layout: post
-
 title: Bagan
-
 date: 2021-06-30 20:47:00 +0300
-
 image: 15.jpg
-
 tags: Guide
-
 ---
 ### The Temples of Bagan
 The thousands of temples that are spread across the plains of Bagan (sometimes spelt Pagan) are the most impressive testament to the religious devotion of Myanmar’s people – and rulers – over the centuries. They combine to form one of the richest archaeological sites in Asia and provide views quite unlike anywhere else on earth. For practical information on restaurants, ATMs, accommodation and trasport, visit our towns of Bagan page.
@@ -28,4 +21,4 @@ Bagan was **the capital of the Kingdom of Pagan** from the 9th to the 13th centu
 
 After Mongol invasions eventually led to the fall of the Kingdom of Pagan, the city was reduced to a small settlement, never to recover its former glories. The area did, however, remain a **destination for Buddhist pilgrimage**. A few hundred temples were added between the 13th and 20th centuries, but the extensive earthquake damage over the years means that only 3,800 monuments of various size remain, in varying states of repair.
 
-![]({{site.baseurl}}/img/14.jpg)
+![]({{site.baseurl}}/img/14.png)
