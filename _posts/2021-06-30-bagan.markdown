@@ -1,17 +1,14 @@
 
 ---
-
 layout: post
-
 title: Bagan
-
 date: 2021-06-30 20:47:00 +0300
-
 image: 15.jpg
-
 tags: Guide
-
 ---
+
+#Bagan
+
 ### The Temples of Bagan
 The thousands of temples that are spread across the plains of Bagan (sometimes spelt Pagan) are the most impressive testament to the religious devotion of Myanmar’s people – and rulers – over the centuries. They combine to form one of the richest archaeological sites in Asia and provide views quite unlike anywhere else on earth. For practical information on restaurants, ATMs, accommodation and trasport, visit our towns of Bagan page.
 
