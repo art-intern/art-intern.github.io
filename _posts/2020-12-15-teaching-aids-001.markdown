@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Art Pencil 001
+title:  Teaching Aids 001
 date:   2020-12-15 15:38 +0630
 image:  teaching-aids-001.jpg
 tags:   art, teaching-aids
