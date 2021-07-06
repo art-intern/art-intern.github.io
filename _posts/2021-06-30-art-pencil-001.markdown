@@ -3,7 +3,7 @@ layout: post
 title:  Art Pencil 001
 date:   2021-06-30 15:38 +0630
 image:  art-pencil-001.jpg
-tags:   art
+tags:   art, teaching-aids
 ---
 # ခဲတံကိုင်နည်းလေးတွေပါ၊ 
 
