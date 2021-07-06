@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  Teaching Aids 001
-date:   2020-12-15 15:38 +0630
+title:  Teaching Aids 1,2,3
+date:   2021-02-26 15:38 +0630
 image:  teaching-aids-001.jpg
 tags:   art, teaching-aids
 ---
-# အခြေခံ သင်မည့်သူများ အတွက် လိုအပ်သောပစ္စည်းများ။
+# ✏️ လိုအပ်သည့်သင်ထောက်ကူပစ္စည်းများ(၁)
+
+အခြေခံ သင်မည့်သူများ အတွက် လိုအပ်သောပစ္စည်းများ။
 
 ![]({{site.baseurl}}/img/teaching-aids-001/001.jpg)
 
