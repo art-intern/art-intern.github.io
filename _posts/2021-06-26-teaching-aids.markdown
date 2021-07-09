@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title:  Teaching Aids 1,2
 date:   2021-06-26 15:38 +0630
 image:  teaching-aids-001.jpg
-tags:   art, teaching-aids
+tags:   Beginner Teaching-aids
 ---
 ## ✏️ လိုအပ်သည့်သင်ထောက်ကူပစ္စည်းများ(၁)
 ##### Post Date : `2020-12-15`
@@ -25,7 +24,7 @@ tags:   art, teaching-aids
 
 
 ## ✏️ လိုအပ်သည့်သင်ထောက်ကူပစ္စည်းများ(၂)
-##### Post Date : `2020-6-26`
+##### Post Date : `2021-6-26`
 ##### Facebook Link : [Go](https://www.facebook.com/groups/243207936740930/permalink/415184699543252/)
 လိုအပ်သည့်သင်ထောက်ကူပစ္စည်းများ, ခဲတံအပြာ,2b,4b,6b,သုံးချောင်း,
 ပုံဆွဲစာအုပ် drawing book တအုပ်,ခဲဖျက်,ပေတံ တို့ဖြစ်သည်။
