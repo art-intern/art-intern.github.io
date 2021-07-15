@@ -10,10 +10,13 @@ tags:   Beginner Teaching-aids
 ##### Facebook Link : [Go](https://www.facebook.com/groups/243207936740930/permalink/319930232402033/)
 ခဲအခြေခံသင်မည့်သူများအတွက်လိုအပ်သောပစ္စည်းများ။
 
+တရုတ် ခဲခြစ် စာရွက် တရွက် 300-
 ![]({{site.baseurl}}/img/teaching-aids-001/001.jpg)
 
+ခဲတံ 2b.4b. 6b သုံးချောင်း ပေတံ၊ခဲဖျက်၊ ပုံဆွဲစာအုပ် 10"x15;''
 ![]({{site.baseurl}}/img/teaching-aids-001/002.jpg)
 
+ပစွည်းစုံ
 ![]({{site.baseurl}}/img/teaching-aids-001/003.jpg)
 
 ![]({{site.baseurl}}/img/teaching-aids-001/004.jpg)
