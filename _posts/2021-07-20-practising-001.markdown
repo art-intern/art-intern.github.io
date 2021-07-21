@@ -2,7 +2,7 @@
 layout: post
 title:  Practising 001
 date:   2021-07-20 15:38 +0630
-image:  practising-002.jpg
+image:  practising-001.jpg
 tags:   Practising
 ---
 ## Practising 1
