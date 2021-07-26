@@ -3,7 +3,7 @@ layout: post
 title:  Practising 003
 date:   2021-07-20 15:38 +0630
 image:  practising-003.jpg
-tags:   Practising
+tags:   Practising Line Tone Perspective
 ---
 ## Practising 15
 3.5.2021. ဆက်ပြီး လေ့လာ လေ့ကျင့်ပါအုံး၊ မန့် မှာ ဗီဒီယိုဖိုင်ရှိ
@@ -14,7 +14,7 @@ tags:   Practising
 
 3) proko ရဲ့ anatomy for artists ကတော်တော်ကောင်းလို့။ 😃 သင်ချင်တဲ့သူတွေ သင်ရအောင်လို့
 
-YouTube : [![Anatomy of the Human Body for Artists | Proko]({{site.baseurl}}/img/practising-003/015-9.jpg)](https://www.youtube.com/watch?v=pDgyQjNFVQk&list=PLtG4P3lq8RHFBeVaruf2JjyQmZJH4__Zv "Anatomy of the Human Body for Artists | Proko")
+YouTube : [Anatomy of the Human Body for Artists | Proko](https://www.youtube.com/watch?v=pDgyQjNFVQk&list=PLtG4P3lq8RHFBeVaruf2JjyQmZJH4__Zv)
 
 ![]({{site.baseurl}}/img/practising-003/015-1.jpg)
 
@@ -36,7 +36,9 @@ YouTube : [![Anatomy of the Human Body for Artists | Proko]({{site.baseurl}}/img
 2) [Easy and different technique to draw NOSE 👃](https://www.facebook.com/vkartbox/videos/2825903140951504/)
 ![]({{site.baseurl}}/img/practising-003/015-8.jpg)
 
-3) YouTube : [![Anatomy of the Human Body for Artists | Proko]({{site.baseurl}}/img/practising-003/015-9.jpg)](https://www.youtube.com/watch?v=pDgyQjNFVQk&list=PLtG4P3lq8RHFBeVaruf2JjyQmZJH4__Zv "Anatomy of the Human Body for Artists | Proko")
+3) YouTube : [Anatomy of the Human Body for Artists | Proko](https://www.youtube.com/watch?v=pDgyQjNFVQk&list=PLtG4P3lq8RHFBeVaruf2JjyQmZJH4__Zv)
+![]({{site.baseurl}}/img/practising-003/015-9.jpg)
+
 
 ## Practising 16
 18.4.2021. လေ့ကျင့်ရန်

@@ -3,7 +3,7 @@ layout: post
 title:  Practising 002
 date:   2021-07-20 15:38 +0630
 image:  practising-002.jpg
-tags:   Practising
+tags:   Practising Circle Oval 
 ---
 ## Practising 8
 20.6.2021.  အခြေခံ ခဲ ရေးချက်တွေ,
