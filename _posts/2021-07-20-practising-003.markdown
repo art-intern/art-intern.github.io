@@ -14,7 +14,7 @@ tags:   Practising Line Tone Perspective
 
 3) proko ရဲ့ anatomy for artists ကတော်တော်ကောင်းလို့။ 😃 သင်ချင်တဲ့သူတွေ သင်ရအောင်လို့
 
-YouTube : [Anatomy of the Human Body for Artists | Proko](https://www.youtube.com/watch?v=pDgyQjNFVQk&list=PLtG4P3lq8RHFBeVaruf2JjyQmZJH4__Zv)
+YouTube : [Anatomy of the Human Body for Artists|Proko](https://www.youtube.com/watch?v=pDgyQjNFVQk&list=PLtG4P3lq8RHFBeVaruf2JjyQmZJH4__Zv)
 
 ![]({{site.baseurl}}/img/practising-003/015-1.jpg)
 
@@ -39,6 +39,9 @@ YouTube : [Anatomy of the Human Body for Artists | Proko](https://www.youtube.co
 3) YouTube : [Anatomy of the Human Body for Artists | Proko](https://www.youtube.com/watch?v=pDgyQjNFVQk&list=PLtG4P3lq8RHFBeVaruf2JjyQmZJH4__Zv)
 ![]({{site.baseurl}}/img/practising-003/015-9.jpg)
 
+#HumanAnatomy #MuscleAnatomy #BoneAnatomy
+Introduction to Human Anatomy for Artists
+<iframe src="https://www.youtube.com/embed/pDgyQjNFVQk" frameborder="0" allowfullscreen></iframe>
 
 ## Practising 16
 18.4.2021. လေ့ကျင့်ရန်

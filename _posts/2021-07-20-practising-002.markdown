@@ -27,9 +27,11 @@ tags:   Practising Circle Oval
 
 ![]({{site.baseurl}}/img/practising-002/009-2.jpg)
 
-<video width="320" height="240" controls>
-  <source src="{{site.baseurl}}/img/practising-002/009-3.mp4" type="video/mp4">
-</video>
+##### Facebook Link : [Go](https://www.facebook.com/groups/243207936740930/posts/318070502588006/)
+
+![]({{site.baseurl}}/img/practising-002/009-3-4.jpg)
+
+![]({{site.baseurl}}/img/practising-002/009-3.mp4)
 
 ![]({{site.baseurl}}/img/practising-002/009-4.mp4)
 
