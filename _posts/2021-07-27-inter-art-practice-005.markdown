@@ -25,4 +25,4 @@ Time lapse video of creation a portrait of a girl with braids, pencil drawing on
 ## Great Drawing Art, Pencil Drawing Art
 ##### Facebook Link : Dr.NGO [Go](https://www.facebook.com/watch/?v=158443929646598)
 
-![]({{site.baseurl}}/img/inter-art-practice-005/03.jpg)
+![]({{site.baseurl}}/img/inter-art-practice-005/04.jpg)
