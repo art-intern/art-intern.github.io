@@ -19,6 +19,3 @@ tags:   [Fundamental, Convax Line]
 ![]({{site.baseurl}}/img/convax-line-01.jpg)
 
 ![]({{site.baseurl}}/img/convax-line-02.jpg)
-
-
-2020-08-22-convax-line
