@@ -3,7 +3,7 @@ layout: post
 title:  Figure Anatomy
 date:   2021-06-23 10:54:00 +0300
 image:  figure-anatomy-01.jpg
-tags:   Figure Anatomy
+tags:   [Figure Anatomy]
 ---
 
 ## Figure anatomy

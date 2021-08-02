@@ -3,7 +3,7 @@ layout: post
 title:  Drawing Sketch
 date:   2020-09-19 21:03:00 +0300
 image:  drawing-sketch-01.jpg
-tags:   Art Sketch
+tags:   [Art, Sketch]
 ---
 ## Drawing sketch
 

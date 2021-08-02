@@ -3,7 +3,7 @@ layout: post
 title:  Vertical Line
 date:   2020-08-20 21:33:00 +0300
 image:  vertical-line.jpg
-tags:   Art Line
+tags:   [Art, Line]
 ---
 ## မျဉ်းမတ် vertical line
 
