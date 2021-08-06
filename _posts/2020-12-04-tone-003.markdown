@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Tone 003
+date:   2020-12-04 15:38 +0630
+image:  tone-003.jpg
+tags:   Tone
+---
+## အပိုင်း (63) 4.12.2020
+Tone ခဲ နု ရင့် ၊ဖိ ဖေါ့ လေ့ကျင့်ခဏ်း
+
+##### Post Date : `2020-12-04`
+##### Facebook Link : [Go](https://www.facebook.com/groups/243207936740930/permalink/314293929632330/)
+
+![]({{site.baseurl}}/img/tone-003/00.jpg)
+
+![]({{site.baseurl}}/img/tone-003/01.mp4)
+
+![]({{site.baseurl}}/img/tone-003/02.mp4)
+
+![]({{site.baseurl}}/img/tone-003/03.mp4)

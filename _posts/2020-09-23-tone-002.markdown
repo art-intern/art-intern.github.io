@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Tone 002
+date:   2020-09-23 15:38 +0630
+image:  tone-002.jpg
+tags:   Tone
+---
+## အပိုင်း(31) tone.
+ခဲ နု ရင့် ရေးချက်များ၊ မျဉ်းတွေမှာ လိုင်းတူမျဉ်းတွေ ဆက်ကာ ဆက်ကာရေးရင် ရော၊မျဉ်းတွေ လားရာမတူ ဆက်ကာရေးရင် ပြေပြစ်၊ မျဉ်းတွေ လားရာတွေ တခုနှင့်တခုဆန့်ကျင်ဘက်တွေဆီ ထပ်ကာ ရေးဆွဲရင် ပြတ်၊ ထုထည် အလုံး အထည်တွေ ရေးဆွဲရာမှာ ရော ပြေ ပြတ် သဘောတွေ သိနားလည်မှသာ လေ့ကျင့်ရ အဆင်ပြေစေမှာဖြစ်ပါသည်။ အောက်ပါပုံများကိုသေချာလေ့လာ လေ့ကျင့်ပါ။
+##### Post Date : `2020-09-23`
+##### Facebook Link : [Go](https://www.facebook.com/groups/243207936740930/permalink/266658961062494/)
+
+![]({{site.baseurl}}/img/tone-002/01.jpg)
+
+![]({{site.baseurl}}/img/tone-002/02.jpg)
+
+[Link](https://www.facebook.com/100005588328058/videos/pcb.266658961062494/1558906297638966)
+
+![]({{site.baseurl}}/img/tone-002/03.jpg)
+
+![]({{site.baseurl}}/img/tone-002/03.mp4)
+
+![]({{site.baseurl}}/img/tone-002/04.jpg)
+
+![]({{site.baseurl}}/img/tone-002/05.jpg)
+
+![]({{site.baseurl}}/img/tone-002/06.jpg)
