@@ -3,7 +3,7 @@ layout: post
 title:  Mouth Drawing
 date:   2021-06-07 23:57:00 +0300
 image:  art-fundamental-01.jpg
-tags:   Mouth Drawing
+tags:   [Mouth Drawing]
 ---
 
 ![]({{site.baseurl}}/img/eye-nose.jpg)
