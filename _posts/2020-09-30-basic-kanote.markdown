@@ -37,7 +37,7 @@ tags:   Basic Kanote
 
 ![]({{site.baseurl}}/img/basic-kanote/002-09.jpg)
 
-## Basic Kanote 00
+## Basic Kanote 003
 ## အပိုင်း(35) 30.9.2020 Basic kanote flower.
 စက်တင်ဘာလကုန် လေ့ကျင့်ခဏ်းလေး ၊ အခြေခံ မြန်မာ့ ကနုတ်ပန်း နှစ်လက္မ ပတ်လည် စတုရန်း အကွက်တွေ ချပြီး ရေးဆွဲလေ့ကျင့်ပါ။
 

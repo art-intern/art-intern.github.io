@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Practising
+date:   2020-11-23 15:38 +0630
+image:  practice-001.jpg
+tags:   Practising
+---
+## Practising
+## အပိုင်း(61) 23.11.2020. လက်တွေ့ လေ့ကျင့်ခဏ်း
+
+![]({{site.baseurl}}/img/practice-001/00.jpg)
+
+![]({{site.baseurl}}/img/practice-001/01.jpg)
+
+![]({{site.baseurl}}/img/practice-001/02.mp4)
+
+![]({{site.baseurl}}/img/practice-001/03.mp4)
+
+![]({{site.baseurl}}/img/practice-001/04.mp4)
+
+![]({{site.baseurl}}/img/practice-001/05.mp4)
