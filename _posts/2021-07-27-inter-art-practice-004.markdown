@@ -3,7 +3,7 @@ layout: post
 title:  International Art Practice 004
 date:   2021-07-27 15:38 +0630
 image:  inter-art-practice-004.jpg
-tags:   InternationalArt Practice
+tags:   Practice [International Art]
 ---
 ## နိုင်ငံတကာကပန်းချီလေ့ကျင့်နေပုံများ ၄
 4.3.2021. ပန်းချီကား ဖွဲ့စည်းမှုတွေအပါအဝင် လက်တွေ့မော်ဒယ်ရေးဆွဲမှုများ။
