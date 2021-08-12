@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Tone 
+date:   2020-10-31 15:38 +0630
+image:  tone-005.jpg
+tags:   Tone
+---
+## အပိုင်း(၅၃) 31.10.2020 ခဲ အနု အရင့် ရေးချက်များ
+အလုံး အထည်ကို ပြောင်တင်းမှု သဘောတရား ပါဝင်အောင် ရေးခြစ်ပေးရပါသည်။
+
+##### Facebook Link : [Go](https://www.facebook.com/groups/243207936740930/posts/292040711857652/)
+
+![]({{site.baseurl}}/img/tone-005/00.jpg)
+
+![]({{site.baseurl}}/img/tone-005/01.jpg)
+
+![]({{site.baseurl}}/img/tone-005/02.jpg)
+
+![]({{site.baseurl}}/img/tone-005/03.mp4)
+
+![]({{site.baseurl}}/img/tone-005/04.mp4)
+
+![]({{site.baseurl}}/img/tone-005/05.mp4)
+
+![]({{site.baseurl}}/img/tone-005/06.jpg)
