@@ -22,9 +22,3 @@ tags:   Human Head Anatomy
 ![]({{site.baseurl}}/img/human-head-001/06.jpg)
 
 ![]({{site.baseurl}}/img/human-head-001/07.jpg)
-
-![]({{site.baseurl}}/img/human-head-001/08.jpg)
-
-![]({{site.baseurl}}/img/human-head-001/09.jpg)
-
-![]({{site.baseurl}}/img/human-head-001/10.jpg)

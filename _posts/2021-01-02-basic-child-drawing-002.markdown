@@ -5,7 +5,7 @@ date:   2021-01-02 15:38 +0630
 image:  basic-child-drawing-002.jpg
 tags:   Basic Child Drawing Animal Flower Tree
 ---
-## Basic Child Drawing　002
+## Basic Child Drawing 002
 ကျောင်းသား ကျောင်းသူ ဆရာ ဆရာမများအတွက် အိမ်မှာနေရင်း အခြေခံ တိရစ္ဆာန် ပုံ ရေးဆွဲနည်းများ၊ ဝါသနာရှင်များလည်းလိုက်ပါရေးဆွဲနိုင်ပါသည်။
 
 ![]({{site.baseurl}}/img/basic-child-drawing-002/02-01.jpg)
@@ -39,7 +39,7 @@ tags:   Basic Child Drawing Animal Flower Tree
 ![]({{site.baseurl}}/img/basic-child-drawing-002/02-15.jpg)
 
 
-## Basic Child Drawing　003
+## Basic Child Drawing 003
 အွန်လိုင်းဂရုမှာ ကျောင်းသား ကလေးတွေလည်း လေ့လာ သင်ယူနေသည့်အတွက် အောက်ပါ တိရိစ္ဆာန်ပုံ ရေးဆွဲနည်းတွေလည်း အာရုံပြောင်း အနေနဲ့  စိတိဝင်စားရင်လေ့ကျင့်လို့ရပါတယ်။
 
 ![]({{site.baseurl}}/img/basic-child-drawing-002/03-01.jpg)
@@ -49,7 +49,7 @@ tags:   Basic Child Drawing Animal Flower Tree
 ![]({{site.baseurl}}/img/basic-child-drawing-002/03-03.jpg)
 
 
-## Basic Child Drawing　004
+## Basic Child Drawing 004
 အောက်ပါအခြေခံလေးတွေကအချိန်ရရင်လေ့ကျင့်ရအောင်ပါ၊အခြေခံ ပုံရေးဆွဲနည်းတွေ။
 
 ![]({{site.baseurl}}/img/basic-child-drawing-002/04-01.jpg)
