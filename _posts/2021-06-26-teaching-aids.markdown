@@ -35,8 +35,10 @@ tags:   Beginner Teaching-aids
 
 ![]({{site.baseurl}}/img/teaching-aids-002/002.jpg)
 
-##
-[Artisthlatun Artisthlatun] : [လင့်](https://www.facebook.com/468803447268489/posts/781168749365289/ )ဝင်ကြည့်ပါ
+#### [Artisthlatun Artisthlatun](https://www.facebook.com/profile.php?id=100005588328058)
+
+[လင့်](https://www.facebook.com/468803447268489/posts/781168749365289/ )ဝင်ကြည့်ပါ
+
 ##### Post Date : `2020-8-15`
 အခြေခံပုံဆွဲစသင်မည့်သူများအတွက် လိုအပ်သည့်ပစ္စည်းများ၊
 ပုံဆွဲခဲတံ အဆင်ပြေသည့် တံဆိပ်

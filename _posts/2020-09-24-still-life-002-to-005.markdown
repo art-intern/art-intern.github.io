@@ -3,7 +3,7 @@ layout: post
 title:  Still Life 002 ~ 005
 date:   2020-09-24 15:38 +0630
 image:  still-life-002.jpg
-tags:   StillLife
+tags:   [Still Life]
 ---
 ## Still Life 002
 ## အပိုင်း (32) still life. သက်ငြိမ် ပန်းချီ ရေးဆွဲလေ့ကျင့်ခြင်း။

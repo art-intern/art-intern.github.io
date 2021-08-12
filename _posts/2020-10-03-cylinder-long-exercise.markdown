@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Cylinder Long Exercise
+title:  Cylinder Long Exercises
 date:   2020-10-03 15:38 +0630
 image:  cylinder-long-exercise.jpg
-tags:   CylinderLong Exercise
+tags:   Exercises [Cylinder Long]
 ---
 ## အပိုင်း(37) 3.10.2020 
 ဆလင်ဒါ ထုလုံးရှည် လေ့ကျင့်ခဏ်း၊ one zero လေ့ကျင့်ခဏ်းပါ

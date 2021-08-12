@@ -3,7 +3,7 @@ layout: post
 title:  Pencil Drawing 001 & 002
 date:   2020-11-19 15:38 +0630
 image:  pencil-drawing-001.jpg
-tags:   Drop Drawing
+tags:   Pencil Drawing
 ---
 ## Pencil Drawing 001
 ## အပိုင်း (56) 6.11.2020 ခဲ ခြစ် လေ့ကျင့်ခဏ်းများ

@@ -3,7 +3,7 @@ layout: post
 title:  Still Life 004
 date:   2020-10-01 15:38 +0630
 image:  still-life-004.jpg
-tags:   StillLife
+tags:   [Still Life]
 ---
 ## Still Life 004
 ## အပိုင်း (36) 1.10.2020

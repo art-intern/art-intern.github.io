@@ -3,7 +3,7 @@ layout: post
 title:  Still Life 001
 date:   2020-09-23 15:38 +0630
 image:  still-life-001.jpg
-tags:   StillLife
+tags:   [Still Life]
 ---
 ## Still Life 001
 ## အပိုင်း(31) still life.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tone 003
+title:  Tone
 date:   2020-12-04 15:38 +0630
 image:  tone-003.jpg
 tags:   Tone
