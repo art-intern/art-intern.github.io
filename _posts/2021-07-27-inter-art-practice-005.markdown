@@ -3,7 +3,7 @@ layout: post
 title:  International Art Practice 005
 date:   2021-07-27 15:38 +0630
 image:  inter-art-practice-005.jpg
-tags:   [International Art] Practice Pencil Hair Drawing
+tags:   ['International Art','Practice','Pencil','Hair','Drawing']
 ---
 ## How to hold a pencil by a world famous artist
 Time lapse video of creation a portrait of a girl with braids, pencil drawing on paper, 2021. This type of paper is not good for pencil, but I found out it after the drawing, so the result is not as I expected

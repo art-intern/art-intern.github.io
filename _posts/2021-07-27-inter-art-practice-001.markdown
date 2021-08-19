@@ -3,7 +3,7 @@ layout: post
 title:  International Art Practice 001
 date:   2021-07-27 15:38 +0630
 image:  inter-art-practice-001.jpg
-tags:   [International Art] Practice 
+tags:   ['International Art','Practice'] 
 ---
 ## နိုင်ငံတကာကပန်းချီလေ့ကျင့်နေပုံများ ၁
 
