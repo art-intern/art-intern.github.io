@@ -3,7 +3,7 @@ layout: post
 title:  Figure Draw
 date:   2021-04-29 22:14:00 +0300
 image:  figure-draw-01.jpg
-tags:   Figure Drawing
+tags:   [Figure Drawing]
 ---
 
 ## Figure Draw

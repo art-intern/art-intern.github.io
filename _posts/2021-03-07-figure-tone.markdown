@@ -3,7 +3,7 @@ layout: post
 title:  Figure Tone
 date:   2021-03-07 19:16:00 +0300
 image:  figure-tone-01.jpg
-tags:   Figure Tone
+tags:   [Figure Tone]
 ---
 
 ## Figure Tone
