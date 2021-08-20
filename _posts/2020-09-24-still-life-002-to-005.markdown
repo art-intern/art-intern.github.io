@@ -55,11 +55,12 @@ tags:   [Still Life]
 ![]({{site.baseurl}}/img/still-life-003/04.jpg)
 
 ## Still Life 004
-[Go](https://art-intern.github.io/still-life-004/)
+အပိုင်း (36) 1.10.2020 [Go](https://art-intern.github.io/still-life-004/)
 
 ## Still Life 005
+အပိုင်း(54) 2.11.2020 Still life,သက်ငြိမ် အရာဝတ္တု တွေကို အနု အရင့် အလင်း အမှောင် ကြည့်ပြီး ခဲ အဖိ အဖေါ့ လေ့ကျင့်ပေးရတာပါ၊ ခဲမှုန့် ပွတ်ခြင်း ခဲတံ ဘယ်ညာ ရေးဆွဲပွတ်ခြင်းမပြုလုပ်ရပါ။ မျက်နှာပြင် အလိုက်ရေးဆွဲကျင့်ရတာပါ။
 
-![]({{site.baseurl}}/img/still-life-005/01.jpg)
+![]({{site.baseurl}}/img/still-life-005/00.jpg)
 
 ![]({{site.baseurl}}/img/still-life-005/02.jpg)
 
