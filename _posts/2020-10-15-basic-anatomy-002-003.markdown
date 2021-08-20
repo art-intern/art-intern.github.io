@@ -16,7 +16,7 @@ tags:   Basic Anatomy Skull
 ![]({{site.baseurl}}/img/basic-anatomy-002/03.jpg)
 
 ## Basic Anatomy Body
-## အပိုင်း(49) basic anatomy.
+## အပိုင်း(46) basic anatomy.
 ဦးခေါင်းပိုင်း ပြီးတော့ နံအိမ်ပိုင်း ခန္ဓာဗေဒ လေ့ကျင့်ခဏ်းတွေပါ၊ ဝါသနာရှင်တွေမလေ့ကျင့်ဖြစ်ရင်တောင် သိရှိထားမယ်ဆိုရင် ပန်းချီကားတွေကို အကဲဖြတ် ရွေးချယ်နိုင်ကြမှာပါ။ ဖြေးဖြေးလေးသာ လေ့ကျင့်လို့ရပါသည်။
 
 ![]({{site.baseurl}}/img/basic-anatomy-003/01.jpg)

@@ -8,6 +8,7 @@ tags:   Fundamental
 
 ## Art Fundamental Class Part1
 
+အပိုင်း (1)  20.8.2020   အားလုံး ဘဲ မင်္ဂလာ ညလေးပါ
 Art fundamental class အခြေခံ ပုံဆွဲခြင်း စတင်ပါမည်။
 
 ![]({{site.baseurl}}/img/art-fundamental-class-part1-01.jpg)
