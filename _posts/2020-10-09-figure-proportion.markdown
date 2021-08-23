@@ -15,7 +15,7 @@ tags:   Figure Proportion Anatomy
 ![]({{site.baseurl}}/img/figure-proportion/02.jpg)
 #### [Artisthlatun Artisthlatun](https://www.facebook.com/profile.php?id=100005588328058)
 
-> Ko Thar Gyi : စိတ်မှန်းနဲ့လား
+> Student : စိတ်မှန်းနဲ့လား
 > Artisthlatun : မိမိရေးဆွဲမည့် ဆိုဒ် အလိုက် အချိုး ချရတာပါ၊
 
 ရှေ့ နောက် အချိုး အမျိူသား။

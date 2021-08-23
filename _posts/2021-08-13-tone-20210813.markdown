@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Tone
+date:   2021-08-13 21:23:00 +0300
+image:  tone-20210813.jpg
+tags:   Tone
+---
+## 13.8.2021.  Tone.
+အခြေခံ ခဲ ရေးချက်လေးတွေ နု ရင့် သဘောတွေ လေ့ကျင့်လို့ရအောင်ပါ၊
+
+![]({{site.baseurl}}/img/tone-20210813/01.jpg)
+
+![]({{site.baseurl}}/img/tone-20210813/02.jpg)
+
+![]({{site.baseurl}}/img/tone-20210813/03.jpg)

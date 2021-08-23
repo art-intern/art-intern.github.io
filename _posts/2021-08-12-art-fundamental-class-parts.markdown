@@ -197,7 +197,7 @@ tags:   Part
     <th>Part 49</th>
     </tr>
     <tr valign="top">
-    <td><ul><li><a href='https://art-intern.github.io/calf-drawing/'>Calf Drawing</a></li><li><a href='https://art-intern.github.io/foot-drawing/'>Foot Drawing</a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/calf-drawing/'>Calf Drawing</a></li><li><a href='https://art-intern.github.io/foot-drawing/'>Foot Drawing</a></li><li><a href='https://art-intern.github.io/painting-compositions-001-002/'>Painting Compositions 001 & 002</a></li></ul></td>
     <td><ul><li><a href='https://art-intern.github.io/painting-compositions-001-002/'>Painting Compositions 001 & 002</a></li></ul></td>
     </tr>
 <tr align='left' bgcolor='lightgray'>
@@ -253,7 +253,7 @@ tags:   Part
     <th>Part 63</th>
 </tr>
 <tr valign="top">
-    <td><ul><li><a href='https://art-intern.github.io/still-life-002-to-005/'>Still Life 002 ~ 005</a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/still-life-25/'>Still Life</a></li></ul></td>
     <td><ul><li><a href='https://art-intern.github.io/tone-003/'>Tone</a></li></ul></td>
 </tr>
   </table>

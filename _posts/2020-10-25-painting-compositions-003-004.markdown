@@ -50,7 +50,7 @@ tags:   Painting Composition
 
 ထားသိုမှုကောင်းပြီး ပန်းချီကား၏ အဖွင့်အပိတ်မပါတော့ တခုခု လိုနေသလို၊
 
-#### Min Khant
+#### Student
 > အဖွင့် အပိတ်ဆိုတာ နားမလည်လို့ ရှင်းပြပေးပါအုံး ဆရာ
 
 #### [Artisthlatun Artisthlatun](https://www.facebook.com/profile.php?id=100005588328058)
