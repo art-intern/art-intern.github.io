@@ -1,0 +1,29 @@
+---
+layout: post
+title:  Surfacing Line
+date:   2021-08-03 21:23:00 +0300
+image:  pencil-drawing-20210803.jpg
+tags:   [Surfacing Line]
+---
+## 3.8.2021. ခဲရေးချက်တွေ လေ့လာ လေ့ကျင့်လို့ရအောင်ပါ၊
+Out line ကအဓိကဖြစ်ပြီး အရာဝတ္ထုတွေ၏ပြောင်တင်းမှု ထွင်းဖောက်ကြည်လင်မှု အရိပ် တို့၏သဘာဝ တို့ကို သေချာ သတိထားရေးဆွဲလေ့ကျင့်ပါ။
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/01.jpg)
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/02.jpg)
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/03.jpg)
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/04.jpg)
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/05.jpg)
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/06.jpg)
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/07.jpg)
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/08.jpg)
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/09.jpg)
+
+![]({{site.baseurl}}/img/pencil-drawing-20210803/10.jpg)

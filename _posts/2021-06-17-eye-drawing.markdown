@@ -3,7 +3,7 @@ layout: post
 title:  Eye Drawing
 date:   2021-06-17 15:38 +0630
 image:  eye-drawing-034.jpg
-tags:   Anatomy Drawing Surface
+tags:   Anatomy Eye Drawing Surface 
 ---
 ## Eye Surfacing Line
 8.1.2021. surfacing line.

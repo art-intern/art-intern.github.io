@@ -25,7 +25,7 @@ tags:   Drop Drawing
 ![]({{site.baseurl}}/img/drop-drawing/07.jpg)
 
 ### Translate 1
-#### Kyu Thin
+#### Student
 > တတ်သလောက်လေးပြန်ပေးထားပါတယ် ဆရာကြီး။ အိမ်စာလေးလဲ လိုက်လုပ်ရင်းနဲ့ပါ။အဖြူရောင်ခဲတံကတော့မရှိလို့ ခဲတံတစ်မျိုးတည်းနဲ့ပဲဆွဲလိုက်ပါတယ်။
 
 #### [Artisthlatun Artisthlatun](https://www.facebook.com/profile.php?id=100005588328058)
