@@ -4,20 +4,22 @@ title: About
 image: 
 permalink: /about/
 ---
+မင်္ဂလာပါ
 
-Mingalar Pr, this is the official page of Tech Intern by Ko Ko Ye ( OSS tech solution ).
-Hosted by Ko Ko Ye and his lovely fellas. We share our shallow knowledges related with system engineering and devops in articles on this page. 
+ဆရာ Artist ဦးလှထွန်းရဲ့ (Art fundamentals class.2020.)ပညာဒါနသီးသန့် Facebook Private Group မှ ပို့ချချက်များကို အလွယ်တကူလေ့လာနိုင်ဖို့ တစ်စုတစ်စည်းတည်းတင်ပေးထားတာဖြစ်ပါတယ်။ 
+
+သက်ဆိုင်ရာလင့်ခ်များကို တတ်နိုင်သလောက်စုစည်းပေးထားပါတယ်။
+
+ပညာလိုလားသူတိုင်း လေ့လာသင်ယူနိုင်ကြပါစေ။
+
+#### သင်တန်း - [Art fundamentals class.2020.](https://www.facebook.com/groups/243207936740930)
+#### ဆရာ - [Artisthlatun Artisthlatun](https://www.facebook.com/profile.php?id=100005588328058)
 
 #### Team Members
-Ko Ko Ye ( Leader ) <br/>
-Minn Thatti <br/>
-Naing Naing Htun<br/>
-Nay Htut Aung <br/>
-Pyae Phyo Hein<br/>
-Yu Yu Hlaing<br/>
-Sarga Arya<br/>
-Lin Lett Tun<br/>
-Nyi Nyi Soe Win ( Manager )*
+Ko Ko Ye ( Leader )<br/>
+Phyoe Khant Zin <br/>
+Phyu Phyu Thin<br/>
+
 #### Contact us
 
 kokoye2007@ubuntu.com
@@ -26,8 +28,4 @@ Kanaung Hub, Building 14, MICT park, Hlaing campus, Yangon, Myanmar.
 
 +959450022022
 
- <center> ***We are Short-Zealed*** <center/>
-
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
 
