@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Still Life
+date:   2021-08-26 21:23:00 +0300
+image:  still-life-20210826.jpg
+tags:   Still Life
+---
+## 26.8.2021. Still life.
+  သက်ငြိမ် ပန်းချီလေးတွေ လေ့ကျင့်လို့ရအောင်ပါ၊
+
+![]({{site.baseurl}}/img/still-life-20210826/01.jpg)
+
+![]({{site.baseurl}}/img/still-life-20210826/02.jpg)
+
+![]({{site.baseurl}}/img/still-life-20210826/03.jpg)
+
+![]({{site.baseurl}}/img/still-life-20210826/04.jpg)
