@@ -3,7 +3,7 @@ layout: post
 title:  Surfacing Line
 date:   2021-08-04 21:23:00 +0300
 image:  pencil-drawing-20210804.jpg
-tags:   [Surfacing Line]
+tags:   Pencil Drawing
 ---
 ## 4.8.2021.  ခဲရေးချက်များ
 
