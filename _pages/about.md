@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: About
-image: 
+image: art-class-cover.jpg
 permalink: /about/
 ---
 မင်္ဂလာပါ
@@ -12,8 +12,16 @@ permalink: /about/
 
 ပညာလိုလားသူတိုင်း လေ့လာသင်ယူနိုင်ကြပါစေ။
 
-#### သင်တန်း - [Art fundamentals class.2020.](https://www.facebook.com/groups/243207936740930)
+
+#### သင်တန်း 
+* Facebook : [Art fundamentals class.2020.](https://www.facebook.com/groups/243207936740930)
+#### 
+* Website : [Art Fundamental Class (Part 01~63)](https://art-intern.github.io/art-fundamental-class-parts/)
+
+
 #### ဆရာ - [Artisthlatun Artisthlatun](https://www.facebook.com/profile.php?id=100005588328058)
+
+
 
 #### Team Members
 Ko Ko Ye ( Leader )<br/>
