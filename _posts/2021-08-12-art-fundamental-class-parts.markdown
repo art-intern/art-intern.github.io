@@ -85,7 +85,7 @@ tags:   Part
     <th>Part 20</th>
 </tr>
 <tr valign="top">
-    <td><ul><li><a href='https://art-intern.github.io/perspective/'>Perspective</a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/perspective/'>Perspective </a></li></ul></td>
     <td><ul><li><a href='https://art-intern.github.io/one-point-perspective-1/'>One Point Perspective 1</a></li><li><a href='https://art-intern.github.io/one-point-perspective-2/'>One Point Perspective 2</a></li><li><a href='https://art-intern.github.io/one-point-perspective-3/'>One Point Perspective 3</a></li></ul></td>
 </tr>
     <tr align='left' bgcolor='lightgray'>
@@ -93,32 +93,32 @@ tags:   Part
     <th>Part 22</th>
     </tr>
     <tr valign="top">
-    <td><ul><li><a href=''></a></li></ul></td>
-    <td><ul><li><a href=''></a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/perspective-part-21/'>နီးဝေးမြင်သဘော(Perspective)</a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/perspective-part-22/'>နီးဝေးမြင်သဘော(Perspective)</a></li></ul></td>
     </tr>
     <tr align='left' bgcolor='lightgray'>
     <th>Part 23</th>
     <th>Part 24</th>
     </tr>
     <tr valign="top">
-    <td><ul><li><a href=''></a></li></ul></td>
-    <td><ul><li><a href=''></a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/perspective-part-23/'>အကွာအဝေးစကေး(Perspective)</a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/perspective-part-24/'>ပျောက်ကွယ်စက်နှစ်ခုဖြင့်ရေးဆွဲထားသောနီးဝေးမြင်စနစ်(Perspective)</a></li></ul></td>
     </tr>
     <tr align='left' bgcolor='lightgray'>
     <th>Part 25</th>
     <th>Part 26</th>
 </tr>
 <tr valign="top">
-    <td><ul><li><a href=''></a></li></ul></td>
-    <td><ul><li><a href=''></a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/perspective-part-25/'>ပျောက်ကွယ်စက်နှစ်ခုဖြင့်ရေးဆွဲထားသောနီးဝေးမြင်စနစ်(Perspective)</a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/perspective-part-26/'>Two Point Perspective</a></li></ul></td>
 </tr>
     <tr align='left' bgcolor='lightgray'>
     <th>Part 27</th>
     <th>Part 28</th>
     </tr>
     <tr valign="top">
-    <td><ul><li><a href=''></a></li></ul></td>
-    <td><ul><li><a href=''></a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/perspective-part-27/'>Three Point Perspective</a></li></ul></td>
+    <td><ul><li><a href='https://art-intern.github.io/perspective-part-28/'>နီးဝေးမြင်ခြင်းသဘော(Perspective)</a></li></ul></td>
     </tr>
     <tr align='left' bgcolor='lightgray'>
     <th>Part 29</th>
