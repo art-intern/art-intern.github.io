@@ -22,7 +22,6 @@ permalink: /about/
 #### ဆရာ - [Artisthlatun Artisthlatun](https://www.facebook.com/profile.php?id=100005588328058)
 
 
-
 #### Team Members
 Ko Ko Ye ( Leader )<br/>
 Phyoe Khant Zin <br/>
