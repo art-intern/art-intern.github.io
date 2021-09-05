@@ -27,12 +27,15 @@ Ko Ko Ye ( Leader )<br/>
 Phyoe Khant Zin <br/>
 Phyu Phyu Thin<br/>
 
-[comment]: #### Contact us
-[comment]: 
-[comment]: kokoye2007@ubuntu.com
-[comment]: 
-[comment]: Kanaung Hub, Building 14, MICT park, Hlaing campus, Yangon, Myanmar.
-[comment]: 
-[comment]: +959450022022
 
+<!--
 
+#### Contact us
+
+kokoye2007@ubuntu.com
+
+Kanaung Hub, Building 14, MICT park, Hlaing campus, Yangon, Myanmar.
+
++959450022022
+
+--!>
