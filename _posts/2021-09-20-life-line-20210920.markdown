@@ -1,0 +1,59 @@
+---
+layout: post
+title:  Life Line
+date:   2021-09-20 21:23:00 +0300
+image:  life-line-20210920.jpg
+tags:   Life Line
+---
+## Life Line
+,,အလင်းဘက်ခြမ်း အလုံးအထည် ကြွမှုအပိုင်းတို့ကို ခဲသား မထိတထိ ဖွပြီး ရေးဆွဲရသည်,life line ၏အားသာချက်သည် အလင်း,အမှောင် ကာလာ အနေအထားတို့ကို ခဲ အဖိအဖော့တို့ဖြင့် လှုပ်ရှားမှုရှိအောင်ရေးဆွဲရသည့်အတွက်,,သာမန် ပနိးချီဝါသနာရှင်ထက် ပိုပြီး ပညာရှင်ဆန် ပရောဖက်ရှင်နယ် artist တယောက်မှန်းပေါ်လွင်ထင်ရှားစေပါသည်။ အောက်ပါ နိူင်ငံတကာက ရေးချက်များကို လေ့လာ လေ့ကျင့်ပြီး ပညာရှင်အဆင့်သို့တက်လှမ်းနိူင်ပါစေ။
+
+![]({{site.baseurl}}/img/life-line-20210920/01.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/02.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/03.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/04.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/05.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/06.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/07.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/08.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/09.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/10.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/11.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/12.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/13.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/14.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/15.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/16.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/17.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/18.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/19.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/20.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/21.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/22.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/23.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/24.jpg)
+
+![]({{site.baseurl}}/img/life-line-20210920/25.jpg)
