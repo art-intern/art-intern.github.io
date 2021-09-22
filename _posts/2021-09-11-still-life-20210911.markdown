@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Still lite
+date:   2021-09-11 21:23:00 +0300
+image:  still-life-20210911.jpg
+tags:   Still lite
+---
+## 11.9.2021. Still lite.
+မိမိအိမ်တွင်းရှိအရာဝတ္ထုလေးတွေ ကြည့်ပြီး လေ့ကျင့်လို့ရ၊
+
+![]({{site.baseurl}}/img/still-life-20210911/01.jpg)
+
+![]({{site.baseurl}}/img/still-life-20210911/02.jpg)
+
+![]({{site.baseurl}}/img/still-life-20210911/03.jpg)
+
+![]({{site.baseurl}}/img/still-life-20210911/04.jpg)
+
+![]({{site.baseurl}}/img/still-life-20210911/05.jpg)
+
+![]({{site.baseurl}}/img/still-life-20210911/06.jpg)
+
+![]({{site.baseurl}}/img/still-life-20210911/07.jpg)
