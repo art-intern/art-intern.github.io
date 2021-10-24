@@ -1,0 +1,34 @@
+---
+layout: post
+title:  Figure
+date:   2021-09-25 15:38 +0630
+image:  figure-20210925.jpg
+tags:   Figure
+---
+## 25.9.2021. Figure.
+လူပုံ​တွေ နည်းစနစ် မှန်ကန်စွာ လက်တန်း အလွတ်​ရေးဆွဲနိူင်​စေဘို့
+​လေ့ကျင့်ရန်များ,,,
+
+![]({{site.baseurl}}/img/figure-20210925/01.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/02.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/03.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/04.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/05.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/06.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/07.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/08.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/09.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/10.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/11.jpg)
+
+![]({{site.baseurl}}/img/figure-20210925/12.jpg)
