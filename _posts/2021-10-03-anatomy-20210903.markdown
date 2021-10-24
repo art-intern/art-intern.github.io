@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Anatomy
+date:   2021-10-03 15:38 +0630
+image:  anatomy-20210903.jpg
+tags:   Anatomy
+---
+## 3.10.2021. Anatomy.
+ပြင်ပသင်တန်းမှာ ပို့ချချက် အချို့ နှင့် နိူင်ငံတကာ ပုံအချို့
+
+![]({{site.baseurl}}/img/anatomy-20210903/01.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20210903/02.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20210903/03.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20210903/04.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20210903/05.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20210903/06.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20210903/07.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20210903/08.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20210903/09.jpg)

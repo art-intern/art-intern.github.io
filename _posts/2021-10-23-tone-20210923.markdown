@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Tone
+date:   2021-10-23 15:38 +0630
+image:  tone-20210923.jpg
+tags:   Tone
+---
+## 23.10.2021.  Tone.
+အ​ကြောင်းအရာစုံ ခဲ နု ရင့် ​ရေးချက်​တွေ ​လေ့ကျင့်ဘို့,,,
+
+![]({{site.baseurl}}/img/tone-20210923/01.jpg)
+
+![]({{site.baseurl}}/img/tone-20210923/02.jpg)
+
+![]({{site.baseurl}}/img/tone-20210923/03.jpg)
+
+![]({{site.baseurl}}/img/tone-20210923/04.jpg)
