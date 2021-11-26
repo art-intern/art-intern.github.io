@@ -1,0 +1,40 @@
+---
+layout: post
+title:  Surfacing Line
+date:   2021-11-25 22:48:00 +0300
+image:  straight-line-20211125.jpg
+tags:   [Surfacing Line]
+---
+## 25.11.2021. Straihgt line. မျဥ်း​လေ့ကျင့်ခဏ်းများ, 
+ပေတံအသုံးမပြုဘဲလက်တန်း​လေ့ကျင့်ရတာပါ။ လေ့ကျင့်ရင်းနဲ့မှတ်ဥာဏ်ပါတိုးတက်လာတာကို​တွေ့မြင်ရမည်ဖြစ်ပါသည်။ အာရုံစူးစိုက်မှုရှိရပြီး လက်ကပါ တပြိုင်တည်း ​ရေးဆွဲမှသာ ပုံ ထွက်မှန်ပါလိမ့်မည်။
+
+
+![]({{site.baseurl}}/img/straight-line-20211125/01.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/02.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/03.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/04.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/05.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/06.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/07.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/08.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/09.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/10.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/11.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/12.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/13.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/14.jpg)
+
+![]({{site.baseurl}}/img/straight-line-20211125/15.jpg)
