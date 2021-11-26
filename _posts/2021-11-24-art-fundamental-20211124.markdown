@@ -1,0 +1,48 @@
+---
+layout: post
+title:  Art fundamental
+date:   2021-11-24 22:48:00 +0300
+image:  art-fundamental-20211124.jpg
+tags:   [Art fundamental]
+---
+## Art fundamental. 24.11.21
+အ​​ခြေခံ မျဥ်း​လေ့ကျင့်ခဏ်းများ နှင့် အဝန်းပိုင်း အမျိုးမျိုး​လေ့ကျင့်ခဏ်း,,လက်ကျင့်ရ​အောင်များများ​လေ့ကျင့်ပါ။
+
+ခဲတံကိုင်တွယ်ပုံ ​သေချာကြည့်ထားပါ၊
+![]({{site.baseurl}}/img/art-fundamental-20211124/01.jpg)
+
+မျက်နှာပြင် ​ရေးချက်များ၊
+![]({{site.baseurl}}/img/art-fundamental-20211124/02.jpg)
+
+အဝန်း ဝိုင်း​တွေ​လေ့ကျင့်ခဏ်း၊
+![]({{site.baseurl}}/img/art-fundamental-20211124/03.jpg)
+
+မျဥ်း​ကွေး​လေ့ကျင့်ခဏ်း
+![]({{site.baseurl}}/img/art-fundamental-20211124/04.jpg)
+
+မျဥ်း​ဖြောင့်​လေ့ကျင့်ခဏ်း
+![]({{site.baseurl}}/img/art-fundamental-20211124/05.jpg)
+
+မျဥ်းအစိတ်အကျဲ နှင့် မျဥ်း​စောင်းများ​လေ့ကျင့်ခဏ်း၊
+![]({{site.baseurl}}/img/art-fundamental-20211124/06.jpg)
+
+ဘဲဥဝိုင်း​လေ့ကျင့်ခဏ်း
+![]({{site.baseurl}}/img/art-fundamental-20211124/07.jpg)
+
+မျဥ်း​ဖြောင့်များ​လေ့ကျင့်ခဏ်း
+![]({{site.baseurl}}/img/art-fundamental-20211124/08.jpg)
+
+အဝန်းပိုင်း​လေ့ကျင့်ခဏ်းများ
+![]({{site.baseurl}}/img/art-fundamental-20211124/09.jpg)
+
+မျဥ်းအမျိုးမျိုး​လေ့ကျင့်ခဏ်း
+![]({{site.baseurl}}/img/art-fundamental-20211124/10.jpg)
+
+အဝန်းပိုင်းအဆင့်မြင့်​လေ့ကျင့်ခဏ်း
+![]({{site.baseurl}}/img/art-fundamental-20211124/11.jpg)
+
+![]({{site.baseurl}}/img/art-fundamental-20211124/12.jpg)
+
+![]({{site.baseurl}}/img/art-fundamental-20211124/13.jpg)
+
+![]({{site.baseurl}}/img/art-fundamental-20211124/14.jpg)

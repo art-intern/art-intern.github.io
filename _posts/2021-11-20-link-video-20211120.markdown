@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Link Video
+date:   2021-11-20 22:48:00 +0300
+image:  link-video-20211120.jpg
+tags:   Link
+---
+## 20.11.2021.  Link.video.
+
+![]({{site.baseurl}}/img/link-video-20211120/00.jpg)
+
+[Link](https://www.facebook.com/musacelikart/posts/430362485115266)
+
+![]({{site.baseurl}}/img/link-video-20211120/02.jpg)
+
+
+[Wow . . robert_neffson](https://www.facebook.com/watch/?v=485998422636347)
+
+![]({{site.baseurl}}/img/link-video-20211120/02.jpg)

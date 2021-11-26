@@ -1,0 +1,17 @@
+---
+layout: post
+title:  International Art
+date:   2021-11-15 22:48:00 +0300
+image:  inter-art-20211115.jpg
+tags:   [International Art]
+---
+## 15.11.2021. နယ်ပယ်​ပေါင်းစုံမှာအများကြီး​နောက်ကျ​နေခဲ့ပီ။
+
+
+![]({{site.baseurl}}/img/inter-art-20211115/01.jpg)
+
+![]({{site.baseurl}}/img/inter-art-20211115/02.jpg)
+
+![]({{site.baseurl}}/img/inter-art-20211115/03.jpg)
+
+![]({{site.baseurl}}/img/inter-art-20211115/04.jpg)

@@ -1,0 +1,29 @@
+---
+layout: post
+title:  Outline
+date:   2021-11-01 22:48:00 +0300
+image:  outline-20211101.jpg
+tags:   Outline
+---
+## 1.11.2021.
+ Out line, ​တွေ ဘယ်လို စနစ်တကျ ​ကောက်ရတယ်ဆိုတာ ​သေချာ ​လေ့ကျင့် ကြည့်ပါ။
+
+![]({{site.baseurl}}/img/outline-20211101/01.jpg)
+
+![]({{site.baseurl}}/img/outline-20211101/02.jpg)
+
+![]({{site.baseurl}}/img/outline-20211101/03.jpg)
+
+![]({{site.baseurl}}/img/outline-20211101/04.jpg)
+
+![]({{site.baseurl}}/img/outline-20211101/05.jpg)
+
+![]({{site.baseurl}}/img/outline-20211101/06.jpg)
+
+![]({{site.baseurl}}/img/outline-20211101/07.jpg)
+
+![]({{site.baseurl}}/img/outline-20211101/08.jpg)
+
+![]({{site.baseurl}}/img/outline-20211101/09.jpg)
+
+![]({{site.baseurl}}/img/outline-20211101/10.jpg)
