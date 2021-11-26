@@ -1,0 +1,38 @@
+---
+layout: post
+title:  Basic Lines
+date:   2021-11-15 22:48:00 +0300
+image:  basic-lines-20211115.jpg
+tags:   [Basic Lines]
+---
+## 15.11.2021. 
+အ​ခြေခံ အဝင်အထွက်မျဥ်းများဖြင့် ပုံ​တွေကို လက်တန်း​ရေးဆွဲတာ များများ​လေ့ကျင့်မှလက်ရာတိုးတက်လာပါမည်။ မ​လေ့ကျင့်အားပါက ​သေချာ​လေ့လာထားပါ,
+
+
+![]({{site.baseurl}}/img/basic-lines-20211115/01.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/02.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/03.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/04.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/05.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/06.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/07.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/08.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/09.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/10.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/11.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/12.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/13.jpg)
+
+![]({{site.baseurl}}/img/basic-lines-20211115/14.jpg)

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Poreshortening
+date:   2021-11-13 22:48:00 +0300
+image:  poreshortening-20211113.jpg
+tags:   Poreshortening
+---
+## Poreshortening. 13,11,2021
+ထုလုံးတိုဝင်သွားခြင်း သ​ဘောတရား, အရာဝတ္ထုများ​ရှေ့သို့ထွက်လာမှု ​နောက်သို့ဝင်သွားမှု,
+
+
+လက်​ချောင်းများ​ရှေ့သို့ထွက်လာမှု,
+![]({{site.baseurl}}/img/poreshortening-20211113/01.jpg)
+
+ပေါင်တံ အ​နောက်သို့ တိုဝင်သွားမှု,
+![]({{site.baseurl}}/img/poreshortening-20211113/02.jpg)

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  International Anatomy
+date:   2021-11-02 22:48:00 +0300
+image:  inter-anatomy-20211102.jpg
+tags:   [International, Anatomy]
+---
+## Anatomy, (2-11-2021)
+နိူင်ငံတကာက anatomy နှင့် ဘိလပ်ပြန် ဆရာ ဦးဘညဏ် ၏ လက်ရာများ။ 
+ပုံဆိုဒ်တွေ ကြီးလာရင် စကေး အကွက်ချ ပြီး ရေးဆွဲမှသာ အချိုးအစား မှန်ကန်စေပါသည်။
+
+![]({{site.baseurl}}/img/inter-anatomy-20211102/01.jpg)
+
+![]({{site.baseurl}}/img/inter-anatomy-20211102/02.jpg)
+
+![]({{site.baseurl}}/img/inter-anatomy-20211102/03.jpg)
+
+![]({{site.baseurl}}/img/inter-anatomy-20211102/04.jpg)
+
+![]({{site.baseurl}}/img/inter-anatomy-20211102/05.jpg)
+
+![]({{site.baseurl}}/img/inter-anatomy-20211102/06.jpg)
+
+![]({{site.baseurl}}/img/inter-anatomy-20211102/07.jpg)
+
+![]({{site.baseurl}}/img/inter-anatomy-20211102/08.jpg)

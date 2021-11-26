@@ -1,0 +1,26 @@
+---
+layout: post
+title:  Tone
+date:   2021-11-07 22:48:00 +0300
+image:  tone-20211107.jpg
+tags:   Tone
+---
+## 7.11.2021.  Tone(value)
+ခဲ အနု အရင့် အ​သွေးကို ​သေချာ​လေ့လာ ​လေ့ကျင့်ပါ၊ ခဲ ကို ပွတ်ခြင်း မှုန်းခြင်း မပြုလုပ်ပါနှင့် လက်ကအကျင့်ပါပြီး ပညာမပါဖြစ်တတ်သည်။
+
+
+![]({{site.baseurl}}/img/tone-20211107/01.jpg)
+
+![]({{site.baseurl}}/img/tone-20211107/02.jpg)
+
+![]({{site.baseurl}}/img/tone-20211107/03.jpg)
+
+![]({{site.baseurl}}/img/tone-20211107/04.jpg)
+
+![]({{site.baseurl}}/img/tone-20211107/05.jpg)
+
+![]({{site.baseurl}}/img/tone-20211107/06.jpg)
+
+![]({{site.baseurl}}/img/tone-20211107/07.jpg)
+
+![]({{site.baseurl}}/img/tone-20211107/08.jpg)
