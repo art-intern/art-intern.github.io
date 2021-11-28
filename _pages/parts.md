@@ -4,6 +4,7 @@ title:  Art Fundamental Class (Part 01~63)
 date:   2021-08-12 22:19:00 +0300
 image:  art-class-cover.jpg
 tags:   Part
+permalink: /parts/
 ---
 ## Art Fundamental Class
 <div class="heatMap">
