@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Surfacing Line
+date:   2021-12-04 09:37:00 +0300
+image:  surfacing-line-20211204.jpg
+tags:   [Surfacing Line]
+---
+## Surfacing line.(4.12.2021).
+ကွန်တိုလိုင်းထက် ပိုပြီးအဆင့်မြင့် သည့် မျက်နှာပြင်သ​ဘောတရား​ရေးချက်များ၊ အ​ခြေခံခဲ​ရေးချက်​တွေ ကျွမ်းကျင်နိုင်နင်းမှသာ စုတ်တံနှင့်​ရေးဆွဲသည့်အခါ အလုံးအထည်​ထုထည် သ​ဘော​တွေ ​ရေးချက်မှန်လာပါမည်။
+
+![]({{site.baseurl}}/img/surfacing-line-20211204/01.jpg)
+
+![]({{site.baseurl}}/img/surfacing-line-20211204/02.jpg)
+
+![]({{site.baseurl}}/img/surfacing-line-20211204/03.jpg)
+
+Surfacing lines. မျက်နှာပြင်​ရေးချက်များ
+![]({{site.baseurl}}/img/surfacing-line-20211204/04.jpg)
+
+ကွန်တိုလိုင်း မျက်နှာပြင် အနိမ့်အမြင့်ပြမျဥ်း
+![]({{site.baseurl}}/img/surfacing-line-20211204/05.jpg)
+
+ကွန်တိုလိုင်း အနိမ့် အမြင့်ပြ မျဥ်း၊
+![]({{site.baseurl}}/img/surfacing-line-20211204/06.jpg)
