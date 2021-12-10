@@ -1,0 +1,38 @@
+---
+layout: post
+title:  Basic Drawing
+date:   2021-11-28 09:37:00 +0300
+image:  basic-drawing-20211128.jpg
+tags:   [Basic Drawing]
+---
+## Basic drawing. 28.11.2021.အခြေခံပုံရေးဆွဲနည်းတွေ
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/01.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/02.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/03.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/04.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/05.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/06.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/07.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/08.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/09.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/10.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/11.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/12.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/13.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/14.jpg)
+
+![]({{site.baseurl}}/img/basic-drawing-20211128/15.jpg)
