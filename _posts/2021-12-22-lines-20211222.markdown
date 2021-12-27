@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Lines
+date:   2021-12-22 09:37:00 +0300
+image:  lines-20211222.jpg
+tags:   [Lines]
+---
+## Lines.​လေ့ကျင့်ခဏ်းများ
+Link. 22.12.2021
+[great drawing art #121](https://fb.watch/a2TDCVOoSx/)
+![]({{site.baseurl}}/img/lines-20211222/00.jpg)
+
+![]({{site.baseurl}}/img/lines-20211222/01.jpg)
+
+![]({{site.baseurl}}/img/lines-20211222/02.jpg)
+
+![]({{site.baseurl}}/img/lines-20211222/03.jpg)
+
+
+
