@@ -1,0 +1,38 @@
+---
+layout: post
+title:  Anatomy
+date:   2021-12-12 09:37:00 +0300
+image:  anatomy-20211212.jpg
+tags:   [Anatomy]
+---
+## Anatomy. 11.12.2021.
+အနာတမီ​တွေ ​လေ့လာ ​လေ့ကျင့်ဘို့အတွက်ပါ။ အခက်ခဲဆုံးအပိုင်း​တွေ ကိုယ်တိုင် အပင်ပန်းခံ ​လေ့ကျင့်နိူင်သူသာ တချိန် အကျိုးခံစားရမှာ​သေချာပါသည်။
+Still life အဆင့်​လောက်တင်​ကျေနပ်မ​နေဘဲ အခြားသူမလုပ်နိူင်သည်ကို မိမိက လုပ်နိုင်သူဖြစ်ပါက တကယ့်ပညာရှင်အဖြစ်အသိအမှတ်ပြုခံရပါလိမ့်မည်။
+
+![]({{site.baseurl}}/img/anatomy-20211212/01.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/02.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/03.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/04.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/05.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/06.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/07.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/08.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/09.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/10.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/11.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/12.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/13.jpg)
+
+![]({{site.baseurl}}/img/anatomy-20211212/14.jpg)

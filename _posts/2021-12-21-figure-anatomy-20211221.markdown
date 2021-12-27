@@ -1,0 +1,60 @@
+---
+layout: post
+title:  Figure Anatomy
+date:   2021-12-21 09:37:00 +0300
+image:  figure-anatomy-20211221.jpg
+tags:   [Figure, Anatomy]
+---
+## Figure anatomy.21,12,2021.
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/01.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/02.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/03.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/04.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/05.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/06.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/07.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/08.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/09.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/10.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/11.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/12.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/13.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/14.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/15.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/16.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/17.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/18.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/19.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/20.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/21.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/22.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/23.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/24.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/25.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211221/26.jpg)
