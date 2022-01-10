@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Figure Anatomy
+date:   2021-12-27 09:37:00 +0300
+image:  figure-anatomy-20211227.jpg
+tags:   [Figure, Anatomy]
+---
+## 27.12.2021. Figure anatomy
+လေ့လာ လေ့ကျင့်ဘို့.
+
+![]({{site.baseurl}}/img/figure-anatomy-20211227/01.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211227/02.jpg)
+
+![]({{site.baseurl}}/img/figure-anatomy-20211227/03.jpg)

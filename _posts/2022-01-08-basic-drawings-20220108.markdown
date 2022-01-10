@@ -1,0 +1,30 @@
+---
+layout: post
+title:  Basic Drawings
+date:   2022-01-08 09:37:00 +0300
+image:  basic-drawings-20220108.jpg
+tags:   [Basic Drawings]
+---
+## 8.1.1021. အ​ခြေခံပုံ​ရေးဆွဲနည်း
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/01.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/02.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/03.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/04.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/05.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/06.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/07.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/08.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/09.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/10.jpg)
+
+![]({{site.baseurl}}/img/basic-drawings-20220108/11.jpg)
