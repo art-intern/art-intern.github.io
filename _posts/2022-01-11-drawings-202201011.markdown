@@ -1,0 +1,48 @@
+---
+layout: post
+title:  Drawings 
+date:   2022-01-11 11:38:00 +0300
+image:  drawings-202201011.jpg
+tags:   Drawings
+---
+## 11.1.2022. ​လေ့လာ စရာ​တွေကများ အမှန်တကယ်ပညာ​နောက် လိုက်စားသူ​တွေ ခဲမှုန်း ပွတ်​ရေးတာ​တွေ ​ရှောင်ကြပါ။
+
+![]({{site.baseurl}}/img/drawings-202201011/01.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/02.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/03.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/04.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/05.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/06.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/07.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/08.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/09.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/10.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/11.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/12.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/13.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/14.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/15.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/16.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/17.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/18.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/19.jpg)
+
+![]({{site.baseurl}}/img/drawings-202201011/20.jpg)
