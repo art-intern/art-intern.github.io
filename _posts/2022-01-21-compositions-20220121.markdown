@@ -1,0 +1,34 @@
+---
+layout: post
+title:  Compositions
+date:   2022-01-21 09:04:00 +0300
+image:  compositions-20220121.jpg
+tags:   [Compositions]
+---
+## ပန်းချီကားဖွဲ့စည်းမှု ​တွေပါ.
+နိူင်ငံတကာ က စည်းစနစ်အလွန်ကျပါသည်၊ပြည််တွင်းက သီအိုရီ လိုက်စားသူ နည်းပါးလှ။
+21.1.2022.
+
+![]({{site.baseurl}}/img/compositions-20220121/01.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/02.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/03.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/04.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/05.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/06.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/07.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/08.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/09.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/10.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/11.jpg)
+
+![]({{site.baseurl}}/img/compositions-20220121/12.jpg)
