@@ -1,0 +1,45 @@
+---
+layout: post
+title:  Eye level, Perspective
+date:   2022-02-25 09:04:00 +0300
+image:  perspective-20220225.jpg
+tags:   [Eye level, Perspective]
+---
+## Eye level,perspective. 
+25.2.2022
+မျက်စိမျဥ်းတန်း​တွေ နီး​ဝေးမြင်စနစ်​တွေ အဝန်း ဝိုင်း ​လေ့ကျင့်ခဏ်း,,ပန်းချီကား ဖွဲ့စည်းပုံ​တွေ အ​ခြေခံကျကျ ​လေ့လာ လို့ရ​အောင်ထပ်မံတင်​ပေးလိုက်ပါသည်၊
+
+
+![]({{site.baseurl}}/img/perspective-20220225/01.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/02.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/03.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/04.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/05.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/06.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/07.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/08.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/09.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/10.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/11.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/12.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/13.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/14.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/15.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/16.jpg)
+
+![]({{site.baseurl}}/img/perspective-20220225/17.jpg)
