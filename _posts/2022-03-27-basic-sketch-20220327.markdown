@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Basic Sketch
+date:   2022-03-27 09:04:00 +0300
+image:  basic-sketch-20220327.jpg
+tags:   [Basic Sketch]
+---
+## အခြေခံ ခဲခြစ်တွေ,27.3.2022
+
+![]({{site.baseurl}}/img/basic-sketch-20220327/01.jpg)
+
+![]({{site.baseurl}}/img/basic-sketch-20220327/02.jpg)
+
+![]({{site.baseurl}}/img/basic-sketch-20220327/03.jpg)
+
+![]({{site.baseurl}}/img/basic-sketch-20220327/04.jpg)
+
+![]({{site.baseurl}}/img/basic-sketch-20220327/05.jpg)
+
+![]({{site.baseurl}}/img/basic-sketch-20220327/06.jpg)
+[Link](https://www.facebook.com/100005588328058/videos/pcb.565938741134513/730747414760480)
+
+![]({{site.baseurl}}/img/basic-sketch-20220327/07.jpg)
+[Link](https://www.facebook.com/100005588328058/videos/pcb.565938741134513/975350040037493)
+
+![]({{site.baseurl}}/img/basic-sketch-20220327/08.jpg)
+[Link](https://www.facebook.com/100005588328058/videos/pcb.565938741134513/478763757312808)
