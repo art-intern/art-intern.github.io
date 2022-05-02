@@ -1,0 +1,32 @@
+---
+layout: post
+title:  Tone
+date:   2022-04-19 09:04:00 +0300
+image:  tone-20220419.jpg
+tags:   [Tone]
+---
+## Tone, 19.4.2022..ခဲနုရင့် ​ရေးချက်​တွေ ​လေ့ကျင့်လိုက်ပါအုံး,,,
+
+![]({{site.baseurl}}/img/tone-20220419/01.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/02.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/03.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/04.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/05.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/06.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/07.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/08.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/09.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/10.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/11.jpg)
+
+![]({{site.baseurl}}/img/tone-20220419/12.jpg)

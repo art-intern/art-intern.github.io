@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Link
+date:   2022-04-14 09:04:00 +0300
+image:  link-20220414.jpg
+tags:   [Link]
+---
+## 14.4.2022, link.
+
+[Sherwan Ismail : Drawing 😍 ..](https://fb.watch/cLiCeRuP1O/)
+
+![]({{site.baseurl}}/img/link-20220414/01.jpg)
+
