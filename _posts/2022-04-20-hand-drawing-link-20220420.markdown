@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Hand Drawing
+date:   2022-04-20 09:04:00 +0300
+image:  hand-drawing-link-20220420.jpg
+tags:   [Hand Drawing]
+---
+## လက် ​လေ့ကျင့်ခဏ်း link.
+
+[Veri Apriyatno Artist : How To Draw Hands in Various Movement…](https://fb.watch/cLjuJLEjnf/)
+
+![]({{site.baseurl}}/img/hand-drawing-link-20220420/01.jpg)
