@@ -1,0 +1,33 @@
+---
+layout: post
+title:  Tone
+date:   2022-04-23 09:04:00 +0300
+image:  tone-20220423.jpg
+tags:   [Tone]
+---
+## 23.4.2022, tone.
+
+[Video Link](https://www.facebook.com/100005588328058/videos/pcb.581239492937771/360229849248106)
+
+![]({{site.baseurl}}/img/tone-20220423/00.jpg)
+
+![]({{site.baseurl}}/img/tone-20220423/01.jpg)
+
+![]({{site.baseurl}}/img/tone-20220423/02.jpg)
+
+![]({{site.baseurl}}/img/tone-20220423/03.jpg)
+
+![]({{site.baseurl}}/img/tone-20220423/04.jpg)
+
+![]({{site.baseurl}}/img/tone-20220423/05.jpg)
+
+![]({{site.baseurl}}/img/tone-20220423/06.jpg)
+
+![]({{site.baseurl}}/img/tone-20220423/07.jpg)
+
+![]({{site.baseurl}}/img/tone-20220423/08.jpg)
+
+
+
+
+
