@@ -1,0 +1,34 @@
+---
+layout: post
+title:  Face Drawing
+date:   2022-05-05 09:04:00 +0300
+image:  face-drawing-20220505.jpg
+tags:   [Face Drawing]
+---
+## 5.5.2022. လူမျက်နှာပိုင်း အ​ခြေခံ ​လေ့လာ ​လေ့ကျင့်ဘို့အတွက်,,,
+
+![]({{site.baseurl}}/img/face-drawing-20220505/01.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/02.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/03.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/04.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/05.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/06.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/07.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/08.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/09.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/10.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/11.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/12.jpg)
+
+![]({{site.baseurl}}/img/face-drawing-20220505/13.jpg)
