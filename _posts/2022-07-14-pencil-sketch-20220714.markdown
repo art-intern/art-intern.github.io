@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Pencil Sketch
+date:   2022-07-14 09:04:00 +0300
+image:  pencil-sketch-20220714.jpg
+tags:   [Pencil Sketch]
+---
+## 14.7.2022, ခဲခြစ် ​လေ့ကျင့်ခဏ်း,,,
+
+![]({{site.baseurl}}/img/pencil-sketch-20220714/01.jpg)
+
+![]({{site.baseurl}}/img/pencil-sketch-20220714/02.jpg)
+
+![]({{site.baseurl}}/img/pencil-sketch-20220714/03.jpg)
+
+![]({{site.baseurl}}/img/pencil-sketch-20220714/04.jpg)
+
+![]({{site.baseurl}}/img/pencil-sketch-20220714/05.jpg)
