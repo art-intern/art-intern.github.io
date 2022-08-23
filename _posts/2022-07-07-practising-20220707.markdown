@@ -1,0 +1,48 @@
+---
+layout: post
+title:  Practising
+date:   2022-07-07 09:04:00 +0300
+image:  practising-20220707.jpg
+tags:   [Practising]
+---
+## 7.7.2022,,​လေ့လာ ​လေ့ကျင့်စရာ​တွေ,,,
+
+![]({{site.baseurl}}/img/practising-20220707/01.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/02.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/03.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/04.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/05.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/06.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/07.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/08.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/09.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/10.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/11.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/12.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/13.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/14.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/15.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/16.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/17.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/18.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/19.jpg)
+
+![]({{site.baseurl}}/img/practising-20220707/20.jpg)
