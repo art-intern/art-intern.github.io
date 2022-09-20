@@ -1,8 +1,0 @@
----
-layout: post
-title:  Test
-date:   2022-08-28 22:48:00 +0300
-image:  introduction-to-lines-01.jpg
-tags:   Test 
----
-## Test
