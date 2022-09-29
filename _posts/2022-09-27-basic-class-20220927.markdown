@@ -1,0 +1,40 @@
+---
+layout: post
+title:  Basic Class
+date:   2022-09-27 22:48:00 +0300
+image:  basic-class-20220927.jpg
+tags:   [Basic]
+---
+## 27.9.2022,foreshortening. Basic class,
+
+![]({{site.baseurl}}/img/basic-class-20220927/01.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/02.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/03.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/04.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/05.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/06.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/07.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/08.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/09.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/10.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/11.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/12.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/13.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/14.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/15.jpg)
+
+![]({{site.baseurl}}/img/basic-class-20220927/16.jpg)
