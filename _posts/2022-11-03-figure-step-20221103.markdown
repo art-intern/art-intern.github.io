@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Figure Step
+date:   2022-11-03 22:48:00 +0300
+image:  figure-step-20221103.jpg
+tags:   [Figure Step]
+---
+## 3.11.2022. Figure step.
+
+![]({{site.baseurl}}/img/figure-step-20221103/01.jpg)
+
+![]({{site.baseurl}}/img/figure-step-20221103/02.jpg)
+
+![]({{site.baseurl}}/img/figure-step-20221103/03.jpg)
+
+![]({{site.baseurl}}/img/figure-step-20221103/04.jpg)
+
+![]({{site.baseurl}}/img/figure-step-20221103/05.jpg)
